@@ -32,3 +32,9 @@ There are many ways to build an app. This is but one.
 - grunt-gh-pages
 - gitignore dev files in ./public
 - report bug: npmcss seems to require .css extn on absolute imports
+- FIXME unpausing restarts the song
+- TODO loop through tracks
+- TODO localStorage state
+- TODO seek in track
+- TODO hoverstate for list items
+- TODO show currently playing/paused

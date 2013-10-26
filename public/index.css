@@ -553,6 +553,7 @@ body {
     margin:0;
     padding:0;
     background:#4A4D4E;
+    -webkit-user-select:none;
 }
 
 .topcoat-button {
